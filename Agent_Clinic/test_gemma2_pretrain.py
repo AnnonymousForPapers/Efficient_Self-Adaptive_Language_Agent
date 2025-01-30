@@ -1,15 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  9 02:44:41 2025
-
-@author: xiaoyenche
-"""
-
 # pip install accelerate
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
-access_token = "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"
+access_token = ""
 
 tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-9b-it")
 model = AutoModelForCausalLM.from_pretrained(

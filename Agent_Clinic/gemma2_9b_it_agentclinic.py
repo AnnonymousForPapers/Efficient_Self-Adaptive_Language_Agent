@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  9 02:30:41 2025
-
-@author: xiaoyenche
-"""
-
 print("Program starts")
 
 import argparse

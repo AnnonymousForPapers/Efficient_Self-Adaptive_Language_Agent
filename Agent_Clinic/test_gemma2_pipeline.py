@@ -1,14 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  9 02:39:59 2025
-
-@author: xiaoyenche
-"""
-
 import torch
 from transformers import pipeline
 
-access_token = "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"
+access_token = ""
 
 pipe = pipeline(
     "text-generation",
