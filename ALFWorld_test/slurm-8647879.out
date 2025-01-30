@@ -1,0 +1,10 @@
+Downloading shards:   0%|          | 0/2 [00:00<?, ?it/s]Downloading shards:  50%|█████     | 1/2 [00:36<00:36, 36.44s/it]Downloading shards: 100%|██████████| 2/2 [00:49<00:00, 22.88s/it]Downloading shards: 100%|██████████| 2/2 [00:49<00:00, 24.92s/it]
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:17<00:17, 17.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:24<00:00, 10.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:24<00:00, 12.03s/it]
+
+Model name: meta-llama/Llama-2-7b-hf, Max. context len.: 4096
+Model name: meta-llama/Llama-2-7b-hf, Task type: put, Context length:1266
+Model name: meta-llama/Llama-2-7b-hf, Task type: clean, Context length:1744
+Model name: meta-llama/Llama-2-7b-hf, Task type: heat, Context length:1524
+Model name: meta-llama/Llama-2-7b-hf, Task type: cool, Context length:1745
+Model name: meta-llama/Llama-2-7b-hf, Task type: examine, Context length:1511
+Model name: meta-llama/Llama-2-7b-hf, Task type: puttwo, Context length:1559

@@ -1,0 +1,8 @@
+
+*Model name: google/gemma-2-9b
+
+Task type:put
+Traceback (most recent call last):
+  File "/home/ych22001/LLM/LLM_ALFWorld/ALFWorld_test/Count_show_tokens_all_tasks.py", line 46, in <module>
+    result = tokenizer(text)
+NameError: name 'text' is not defined. Did you mean: 'next'?

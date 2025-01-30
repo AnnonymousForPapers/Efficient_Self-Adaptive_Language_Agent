@@ -1,0 +1,9 @@
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:29<01:29, 29.83s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:38<00:34, 17.32s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:47<00:13, 13.79s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:54<00:00, 11.07s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:54<00:00, 13.72s/it]
+
+Model name: google/gemma-2-9b-it, Max. context len.: 8192
+Model name: google/gemma-2-9b-it, Task type: put, Context length:1125
+Model name: google/gemma-2-9b-it, Task type: clean, Context length:1565
+Model name: google/gemma-2-9b-it, Task type: heat, Context length:1371
+Model name: google/gemma-2-9b-it, Task type: cool, Context length:1580
+Model name: google/gemma-2-9b-it, Task type: examine, Context length:1374
+Model name: google/gemma-2-9b-it, Task type: puttwo, Context length:1413

@@ -1,0 +1,10 @@
+Downloading shards:   0%|          | 0/8 [00:00<?, ?it/s]Downloading shards:  12%|█▎        | 1/8 [00:07<00:53,  7.67s/it]Downloading shards:  25%|██▌       | 2/8 [00:16<00:49,  8.29s/it]Downloading shards:  38%|███▊      | 3/8 [00:25<00:42,  8.60s/it]Downloading shards:  50%|█████     | 4/8 [00:34<00:34,  8.68s/it]Downloading shards:  62%|██████▎   | 5/8 [00:42<00:25,  8.64s/it]Downloading shards:  75%|███████▌  | 6/8 [00:51<00:17,  8.78s/it]Downloading shards:  88%|████████▊ | 7/8 [01:00<00:08,  8.89s/it]Downloading shards: 100%|██████████| 8/8 [01:04<00:00,  7.29s/it]Downloading shards: 100%|██████████| 8/8 [01:04<00:00,  8.10s/it]
+Loading checkpoint shards:   0%|          | 0/8 [00:00<?, ?it/s]Loading checkpoint shards:  12%|█▎        | 1/8 [00:04<00:30,  4.36s/it]Loading checkpoint shards:  25%|██▌       | 2/8 [00:10<00:30,  5.16s/it]Loading checkpoint shards:  38%|███▊      | 3/8 [00:15<00:26,  5.34s/it]Loading checkpoint shards:  50%|█████     | 4/8 [00:21<00:21,  5.39s/it]Loading checkpoint shards:  62%|██████▎   | 5/8 [00:26<00:16,  5.42s/it]Loading checkpoint shards:  75%|███████▌  | 6/8 [00:31<00:10,  5.37s/it]Loading checkpoint shards:  88%|████████▊ | 7/8 [00:36<00:05,  5.28s/it]Loading checkpoint shards: 100%|██████████| 8/8 [00:39<00:00,  4.27s/it]Loading checkpoint shards: 100%|██████████| 8/8 [00:39<00:00,  4.88s/it]
+
+Model name: HuggingFaceH4/zephyr-7b-alpha, Max. context len.: 32768
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: put, Context length:1218
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: clean, Context length:1696
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: heat, Context length:1483
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: cool, Context length:1686
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: examine, Context length:1420
+Model name: HuggingFaceH4/zephyr-7b-alpha, Task type: puttwo, Context length:1520
