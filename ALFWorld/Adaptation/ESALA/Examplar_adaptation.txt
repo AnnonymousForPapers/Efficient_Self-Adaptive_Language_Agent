@@ -1,0 +1,3 @@
+"\nsuccess in 19 steps, improve existing plan\nGo to garbagecan 1 to find an apple"
+
+"\nsuccess in 13 steps, improve existing plan\nGo to diningtable 1 to find a lettuce"
