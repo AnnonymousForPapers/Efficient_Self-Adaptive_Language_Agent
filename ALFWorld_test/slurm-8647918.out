@@ -1,11 +1,0 @@
-Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
-Downloading shards:   0%|          | 0/2 [00:00<?, ?it/s]Downloading shards:  50%|█████     | 1/2 [01:03<01:03, 63.36s/it]Downloading shards: 100%|██████████| 2/2 [01:22<00:00, 37.46s/it]Downloading shards: 100%|██████████| 2/2 [01:22<00:00, 41.35s/it]
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:23<00:23, 23.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:31<00:00, 14.65s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:31<00:00, 15.94s/it]
-
-Model name: deepseek-ai/deepseek-llm-7b-base, Max. context len.: 4096
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: put, Context length:1145
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: clean, Context length:1610
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: heat, Context length:1397
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: cool, Context length:1626
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: examine, Context length:1377
-Model name: deepseek-ai/deepseek-llm-7b-base, Task type: puttwo, Context length:1450

@@ -1,10 +1,0 @@
-Downloading shards:   0%|          | 0/3 [00:00<?, ?it/s]Downloading shards:  33%|███▎      | 1/3 [00:20<00:40, 20.16s/it]Downloading shards:  67%|██████▋   | 2/3 [00:40<00:20, 20.04s/it]Downloading shards: 100%|██████████| 3/3 [01:16<00:00, 27.30s/it]Downloading shards: 100%|██████████| 3/3 [01:16<00:00, 25.36s/it]
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:07<00:15,  7.98s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:16<00:08,  8.09s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:23<00:00,  7.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:23<00:00,  7.84s/it]
-
-Model name: mistralai/Mistral-7B-v0.3, Max. context len.: 32768
-Model name: mistralai/Mistral-7B-v0.3, Task type: put, Context length:1218
-Model name: mistralai/Mistral-7B-v0.3, Task type: clean, Context length:1696
-Model name: mistralai/Mistral-7B-v0.3, Task type: heat, Context length:1483
-Model name: mistralai/Mistral-7B-v0.3, Task type: cool, Context length:1686
-Model name: mistralai/Mistral-7B-v0.3, Task type: examine, Context length:1420
-Model name: mistralai/Mistral-7B-v0.3, Task type: puttwo, Context length:1520
