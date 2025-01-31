@@ -1,1 +1,0 @@
-export ALFWORLD_DATA=/home/ych22001/LLM/LLM_ALFWorld/ReAct_Critic/
