@@ -1,7 +1,6 @@
 # ['put', 'clean', 'heat', 'cool', 'examine', 'puttwo']
 
-# ReAct
-
+#%% SALA
 # SALA - success
 
 list1 = [0, 2, 1, 1, 0, 1]
@@ -29,13 +28,6 @@ list22 = [0, 0, 0, 0, 0, 0]
 list23 = [0, 1, 0, 0, 0, 0]
 list24 = [0, 0, 0, 0, 0, 0]
 list25 = [1, 1, 0, 0, 0, 0]
-
-# # Up to 55
-# SALA_success = [sum(values) for values in zip(
-#     list1, list2, list3, list4, list5, list6, list7, list8,[0, 2, 0, 1, 2, 0]
-# )]
-# print(SALA_success)
-# print(sum(SALA_success))
 
 # Using zip with unpacking
 SALA_success = [sum(values) for values in zip(
@@ -73,13 +65,6 @@ list22 = [0, 0, 2, 0, 0, 0]
 list23 = [0, 1, 0, 0, 2, 0]
 list24 = [0, 1, 0, 0, 0, 1]
 list25 = [1, 1, 1, 0, 0, 0]
-
-# # Up to 55
-# SALA_total = [sum(values) for values in zip(
-#     list1, list2, list3, list4, list5, list6, list7, list8, [1, 3, 0, 1, 2, 1]
-# )]
-# print(SALA_total)
-# print(sum(SALA_total))
 
 # Using zip with unpacking
 SALA_total = [sum(values) for values in zip(
