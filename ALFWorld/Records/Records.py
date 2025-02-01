@@ -321,7 +321,7 @@ SALA_rmvRflx1_ratio = [s / t if t != 0 else 0 for s, t in zip(SALA_rmvRflx1_succ
 
 print(SALA_rmvRflx1_ratio) # [0.875, 0.7096774193548387, 0.6521739130434783, 0.8095238095238095, 0.5555555555555556, 0.8235294117647058]
 
-# SALA_rmvRflx0 total success rate
+# SALA_rmvRflx1 total success rate
 SALA_rmvRflx1_success_rate_all = sum(SALA_rmvRflx1_success)/sum(SALA_rmvRflx1_total)
 print(SALA_rmvRflx1_success_rate_all) # 0.7388059701492538
 
@@ -342,7 +342,7 @@ ESALA_rmvRflx1_success = [sum(values) for values in zip(
 )]
 print(ESALA_rmvRflx1_success) # [21, 22, 15, 17, 10, 14]
 
-# SALA_rmvRflx1 - total
+# ESALA_rmvRflx1 - total
 
 list1 = [4, 7, 1, 3, 4, 1] # 102-121
 list2 = [4, 7, 2, 7, 1, 2] # 1-23
