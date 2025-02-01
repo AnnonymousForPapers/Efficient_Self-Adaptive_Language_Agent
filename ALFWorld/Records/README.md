@@ -17,25 +17,15 @@ The counts are stored in a list with 6 elements. Each element corresponds to one
 - **SALA**
   - gemma2-9b-it prompted with [2 revised ReAct prompts and 2 adaptation prompt](#SALA)
 - **ESALA**
-  ```
-  gemma2-9b-it prompted with [2 revised ReAct prompts and 2 adaptation prompt](###ESALA)
-  ```
+  - gemma2-9b-it prompted with [2 revised ReAct prompts and 2 adaptation prompt](###ESALA)
 - **ReAct**
-  ```
-  gemma2-9b-it prompted with [2 ReAct prompts](###ReAct)
-  ```
+  - gemma2-9b-it prompted with [2 ReAct prompts](###ReAct)
 - **SALA_rmvRflx0**
-  ```
-  gemma2-9b-it prompted with [2 revised ReAct prompts and the 1<sup>st</sup> adaptation prompt](###SALA_rmvRflx0)
-  ```
+  - gemma2-9b-it prompted with [2 revised ReAct prompts and the 1<sup>st</sup> adaptation prompt](###SALA_rmvRflx0)
 - **SALA_rmvRflx1**
-  ```
-  gemma2-9b-it prompted with [2 revised ReAct prompts and the 2<sup>nd</sup> adaptation prompt](###SALA_rmvRflx1)
-  ```
+  - gemma2-9b-it prompted with [2 revised ReAct prompts and the 2<sup>nd</sup> adaptation prompt](###SALA_rmvRflx1)
 - **ESALA_rmvRflx1**
-  ```
-  gemma2-9b-it prompted with [2 revised ReAct prompts and the 1<sup>st</sup> adaptation prompt](###ESALA_rmvRflx1)
-  ```
+  - gemma2-9b-it prompted with [2 revised ReAct prompts and the 1<sup>st</sup> adaptation prompt](###ESALA_rmvRflx1)
 
 ## The initial prompt without the test environment information of each agent is listed below:
 ### SALA
