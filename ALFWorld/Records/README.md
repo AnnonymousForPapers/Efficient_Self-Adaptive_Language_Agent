@@ -1,7 +1,7 @@
 # Statistics for the test of ReAct-based agent, SALA, and ESALA in the ALFWord environment
 ## Contents
 
-In the [Records.py](Records.py) code, we record the success count and the total count of the ReAct-based agent, SALA with three different combinations of prompts, and ESALA with two different combinations of prompts for each of the 6 task types in the ALFWord environment with 134 tasks. 
+In the [Records.py](Records.py) code, we record the success count and the total count of the ReAct-based agent, SALAs with three different combinations of prompts, and ESALAs with two different combinations of prompts for each of the 6 task types in the ALFWord environment with 134 tasks. 
 
 Then, we compute the success rate of each task type and the total success rate among all the 134 tasks for each agent.
 
