@@ -1,6 +1,6 @@
 # Efficient Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models
 
-![alt text](https://https://github.com/AnnonymousForPapers/Efficient_Self-Adaptive_Language_Agent/blob/main/SALA_intro_2.png?raw=true)
+![alt text](https://github.com/AnnonymousForPapers/Efficient_Self-Adaptive_Language_Agent/blob/main/SALA_intro_2.png?raw=true)
 
 ## Contents
 
