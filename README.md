@@ -46,7 +46,7 @@ The codes related to the AgentClinic environment are in the [Agent_Clinic folder
   organization={Springer}
 }
 ```
-### References for the ALEWorld environment
+### Reference for the AgentClinic environment
 ```
 @misc{schmidgall2024agentclinic,
       title={AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments}, 
