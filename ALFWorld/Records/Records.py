@@ -167,7 +167,8 @@ print(second_ratio)
 ESALA_success_rate_all = sum(second_success)/sum(second_total)
 print(ESALA_success_rate_all)
 
-#%% ReAct - success
+#%% ReAct
+# ReAct - success
 print("ReAct")
 list1 = [7, 7, 5, 7, 4, 4]
 list2 = [9, 4, 4, 6, 6, 6]
