@@ -9,7 +9,7 @@ To run the "adaptation_gemma2_9b_it_agentclinic.py" python file, please use
 ```
 python adaptation_gemma2_9b_it_agentclinic.py --huggingface_api_key "" --inf_type "llm" --num_scenarios 15 --total_inferences 20
 ```
-To run the "gemma2_9b_it_agentclinic.py" python file, please use
+, and to run the "gemma2_9b_it_agentclinic.py" python file, please use
 ```
 python gemma2_9b_it_agentclinic.py --huggingface_api_key "" --inf_type "llm" --num_scenarios 15 --total_inferences 20
 ```
