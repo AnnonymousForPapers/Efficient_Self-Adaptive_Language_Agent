@@ -1,40 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  8 01:40:43 2024
-
-@author: xiaoyenche
-
-disable use cach for limited memory space
-"""
-
-# import os
-# import openai
-
-# # openai.api_key = os.environ["OPENAI_API_KEY"]
-# openai.api_key = "sk-proj-AG8M7U9zlBI5W5F9FCRfT3BlbkFJcEYuaroajIdau953QIK2"
-
-# def llm(prompt, stop=["\n"]):
-#     # response = openai.Completion.create(
-#     response = openai.Completion.create(
-#       model="gpt-3.5-turbo-instruct",
-#       prompt=prompt,
-#       temperature=0,
-#       max_tokens=100,
-#       top_p=1,
-#       frequency_penalty=0.0,
-#       presence_penalty=0.0,
-#       stop=stop
-#     )
-#     # return response["choices"][0]["text"]
-#     return response.choices[0].text
-
 from transformers import AutoTokenizer, AutoModelForCausalLM
 # import torch
 
 model_name = "mistralai/Mistral-7B-Instruct-v0.3"
 print("\n" + "Model name: " + model_name + "\n")
 
-access_token = "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"
+access_token = ""
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, token=access_token)
 model = AutoModelForCausalLM.from_pretrained(
