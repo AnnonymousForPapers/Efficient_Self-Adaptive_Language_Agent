@@ -5,12 +5,6 @@ We implemented the proposed SALA in the "adaptation_gemma2_9b_it_agentclinic.py"
 Before running the code, please follow [the instruction from the AgentClinic GitHub](https://github.com/samuelschmidgall/agentclinic).
 
 ## Contents
-In order to run the python file, we need to enter the Hugging Face access token inside the "" on the right side of
-```
---huggingface_api_key ""
-```
-We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
-
 To run the "adaptation_gemma2_9b_it_agentclinic.py" python file, please use
 ```
 python adaptation_gemma2_9b_it_agentclinic.py --huggingface_api_key "" --inf_type "llm" --num_scenarios 15 --total_inferences 20
