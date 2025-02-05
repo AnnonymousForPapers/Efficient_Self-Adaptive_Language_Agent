@@ -11,7 +11,7 @@ export ALFWORLD_DATA=<storage_path>
 in the terminal everytime before running the code to make the tasks order the same. The <storage_path> is the path that you stores the ALFWorld repository.
 
 ## Contents
-We used [the exemplar](#Exemplar) revised from the [ReAct prompting paper](#ReAct) and the [Reflexion paper](# Reflexion) to prompt the gemma2-9b-it.
+We used [the exemplar](#Exemplar) revised from the [ReAct prompting paper](#ReAct) and the [Reflexion paper](#Reflexion) to prompt the gemma2-9b-it.
 
 In order to run the python file, we need to enter the Hugging Face access token on the right side of "access_token = ". We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
 
