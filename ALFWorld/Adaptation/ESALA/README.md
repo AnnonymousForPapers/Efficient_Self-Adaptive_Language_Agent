@@ -20,8 +20,14 @@ To run the python file, please use
 python Second_Append_RFLX_noExplicit_rmvRflx1.py
 ```
 in the terminal.
+
 ## Control the start of the task number
-In order to start the task on different task number, 
+In order to start the task on different task number, please change the number on the right of 
+```
+env_start_num = 
+```
+at line 334 in Second_Append_RFLX_noExplicit_rmvRflx1.py. The number should be the task number you want to start with.
+
 ## Outputs
 After a task is completed, the statistics will be appended below the last observation as:
 ```
